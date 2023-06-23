@@ -43,3 +43,5 @@ class Stack {
     }
     
 };
+
+// Tc: O(N) | SC: O(N)

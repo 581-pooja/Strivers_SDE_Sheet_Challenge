@@ -23,3 +23,5 @@ bool isValidParenthesis(string expression)
     }
     return st.empty();  // edge 3: check stack is empty at end
 }
+
+// Tc: O(N) | SC: O(N) {N : string or expression length}
