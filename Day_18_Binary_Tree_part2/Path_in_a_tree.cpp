@@ -1,4 +1,4 @@
-
+// Root to Node Path
 bool getPath(TreeNode<int>* root, vector<int> &ans, int x){
 	if(!root) return false;
 	ans.push_back(root->data);
